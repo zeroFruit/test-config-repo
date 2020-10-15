@@ -5,5 +5,4 @@ spring:
 some:
   thing:
     foo: "aaaa"
-    bar: "bbbb"
-    
+    bar: ${foo}
