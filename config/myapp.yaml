@@ -1,3 +1,9 @@
 spring:
   application:
     name: myapp
+
+some:
+  thing:
+    foo: "aaaa"
+    bar: "bbbb"
+    
